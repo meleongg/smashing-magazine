@@ -1,1 +1,1 @@
-# smashing-magazine
+# Working on UX/UI visual hierarchy identification.
